@@ -1,0 +1,19 @@
+.btn-lg, .btn-group-lg > .btn {
+    font-size: 16px;
+    line-height: 1;
+    border-radius: 500px;
+    padding: 19px 56px 21px;
+}
+
+.btn-green, .btn-primary, .navbar .navbar-nav .btn-green, .navbar .navbar-nav .btn-primary {
+    color: #FFF;
+    background-color: #1DB954;
+    margin: 32px 0;
+    font-family: "Arial", Times, serif;
+    border: none;
+}
+
+.content {
+  max-width: 500px;
+  margin: auto;
+}
